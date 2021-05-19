@@ -12,22 +12,24 @@ header:
 
 ### Getting Started
 ***
-App opening screen
+App opening screen. Our app opens on a zoomed map of the Trient glacier in Switzerland. This is the first of our three seminal examples.
 
 ![image](https://user-images.githubusercontent.com/43550569/118410568-f3d84380-b644-11eb-8160-5b08b3496a65.png)
 >Note: To view another glacier ...
 
-```python
-### syntax highlighting for many languages
-for i in range(10):
-    print(i)
-
-```   
+The map can be navigated like the Google Maps application. You may search for countries of interest of regions of interest. In rare cases, you may search for the names of glaciers in the top search bar. Or the map can be navigated by clicking and dragging to a desired location. The zoom level will determine the viewability of the glacier polygons. 
 
 ### Functionality
 
 ## Seminal Examples 
 Our app contains three seminal examples of analysis results for glacier retreat over time. 
+
+We include these examples of glaciers from different parts of the world for those unfamiliar with the project and glaciers in general. These examples provide a smooth time series for the decline in glacier area or arc length in the flowline over the last 37 years. Additionally, we can toggle a linear trend for each time series to determine average decline over time. An example of these time series is shown below:
+
+<img width="683" alt="Screen Shot 2021-05-19 at 11 14 28 AM" src="https://user-images.githubusercontent.com/13628543/118863137-64749f80-b893-11eb-973c-6442311226c1.png">
+
+
+
 ## Map Layers and Navigation
 
 The map can be navigated as any other application using google maps. Search bar can used to navigate to particular regions of the world as desired and any click with a glacier polygon bring information on the side bar for data download. 
@@ -44,7 +46,7 @@ Layer 4: Bounding Box around the glacier polygons.
 
 These layers are automatically loaded on the map within the application but each can be hidden for easier viewing. 
 ## Data Access 
-
+Once you click within the polygon of a glacier the GLIMS ID and coordinates will appear above the map. Additionally, the side panel will display a button allowing a user to navigate to the google drive to download the image data for that glacier. You may clear the pins by clicking the clear points button on the map. This will allow you to click upon another desired glacier.
 
 
 ***
