@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 author_profile: true
 excerpt: "A Google Earth Engine web application to monitor mountain valley glaciers"
 header:

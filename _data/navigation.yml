@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Home"
-    url: /
   - title: "Launch App"
     url: https://dsl030.users.earthengine.app/view/glacierview
   - title: "Tutorial"

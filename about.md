@@ -1,6 +1,6 @@
 ---
 
-layout: single
+layout: splash
 title: About the Team
 excerpt: 
 header:

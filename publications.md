@@ -1,7 +1,9 @@
 ---
 
-layout: single
+layout: splash
 title: GlacierView-related Publications
+classes:
+    - landing
 excerpt: " "
 header:
     overlay_image: /assets/images/glacier_header.png

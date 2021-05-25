@@ -1,7 +1,10 @@
 ---
 
-layout: single
+layout: splash
 title: Tutorial
+classes:
+    - landing
+    - dark-theme
 excerpt: "A Google Earth Engine web application to monitor mountain valley glaciers"
 header:
     overlay_image: /assets/images/glacier_header.png
