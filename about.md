@@ -10,9 +10,6 @@ header:
 
 ---
 
-# The project
-***
-
 # The team
 ***
 
@@ -37,8 +34,12 @@ Kristen Hansen received her BA in Statistics and Psychology from the University 
 
 
 ## Darren Liu
-Darren Liu received his BS in Data Science from the University of California, San Diego in 2021. He is currently interning at Ultra Mobile as a data engineer. His interests lie in creating optimal big data integration pipelines in the industry.
+<p align="left">
+  <img width="100" src="https://user-images.githubusercontent.com/13628543/119699922-8330e400-be07-11eb-9b6a-ddc56697a1ab.png" alt="DarrenBio">
 
+
+Darren Liu received his BS in Data Science from the University of California, San Diego in 2021. He is currently interning at Ultra Mobile as a data engineer. His interests lie in creating optimal big data integration pipelines in the industry.
+</p>
 
 ## Matthew Waismann
 <p align="left">
