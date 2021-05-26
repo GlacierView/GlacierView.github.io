@@ -17,8 +17,8 @@ header:
 <p align="left">
   <img width="100" src="https://user-images.githubusercontent.com/43550569/118410473-73194780-b644-11eb-8282-5303993077b1.png" alt="ArminBio">
   
-Armin Schwartzman received his BS and MS degrees in electrical engineering from the Technion - Israel Institute of Technology and the California Institute of Technology; and his PhD in Statistics from Stanford University. He was an R&D engineer at Rockwell Semiconductor and Biosense Webster and has held faculty positions at Harvard University and North Carolina State University. He is currently Professor at the University of California, San Diego, with a joint position between Biostatistics and the Halicioglu Data Science Institute. His research interests are in signal and image analysis, with applications to biomedicine and the environment. 
   
+  Armin Schwartzman received his BS and MS degrees in electrical engineering from the Technion - Israel Institute of Technology and the California Institute of Technology; and his PhD in Statistics from Stanford University. He was an R&D engineer at Rockwell Semiconductor and Biosense Webster and has held faculty positions at Harvard University and North Carolina State University. He is currently Professor at the University of California, San Diego, with a joint position between Biostatistics and the Halicioglu Data Science Institute. His research interests are in signal and image analysis, with applications to biomedicine and the environment. 
 </p>
 
 
