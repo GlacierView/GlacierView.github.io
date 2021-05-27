@@ -30,7 +30,7 @@ A more spatially complete estimate of changes in glacier position will permit fo
 changes in mountain valley glacier lengths as well as exploration of regional patterns of variability.
 <p>
   <img src="https://user-images.githubusercontent.com/13628543/119705643-dc037b00-be0d-11eb-9c48-3f5b16b2223d.png" alt="bolivia" width="400"/>
-  <em>A Bolivian glacier.</em>
+  <em>The Laguna glacier in Bolivia.</em>
  </p>
  
  <p>
