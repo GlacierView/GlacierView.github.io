@@ -30,7 +30,7 @@ Our app contains three seminal examples of analysis results for glacier retreat 
 
 We include these examples of glaciers from different parts of the world for those unfamiliar with the project and glaciers in general. These examples provide a smooth time series for the decline in glacier area or arc length in the flowline over the last 37 years. Additionally, we can toggle a linear trend for each time series to determine average decline over time. An example of these time series is shown below:
 
-Screen Shot 2021-06-08 at 2.20.02 PM<img width="696" alt="Screen Shot 2021-06-08 at 2 20 02 PM" src="https://user-images.githubusercontent.com/13628543/121259245-b9894d00-c864-11eb-8612-f23ef9c46b50.png">
+<img width="696" alt="Screen Shot 2021-06-08 at 2 20 02 PM" src="https://user-images.githubusercontent.com/13628543/121259245-b9894d00-c864-11eb-8612-f23ef9c46b50.png">
 
 These time series are smoothed using a five year moving average with a normal kernel. This will lead to a smoothed estimate of glacier retreat/shrinkage over time. 
 
