@@ -21,3 +21,11 @@ K. Hansen, K. Hasenstab and A. Schwartzman, "Estimating Mountain Glacier Flowlin
 ### 2015
 
 Usset, J., Maity, A., Staicu, AM. et al. Glacier Terminus Estimation from Landsat Image Intensity Profiles. JABES 20, 279–298 (2015). https://doi.org/10.1007/s13253-015-0207-4
+
+
+
+### 2014
+Kachouie, Nezamoddin N., et al. "Nonparametric regression for estimation of spatiotemporal mountain glacier retreat from satellite images." IEEE Transactions on Geoscience and Remote Sensing 53.3 (2014): 1135-1149.
+
+### 2013
+Kachouie, Nezamoddin N., Peter Huybers, and Armin Schwartzman. "Localization of mountain glacier termini in Landsat multi-spectral images." Pattern Recognition Letters 34.1 (2013): 94-106.
