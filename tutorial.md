@@ -24,6 +24,13 @@ App opening screen. Our app opens on a zoomed map of the Trient glacier in Switz
 The map can be navigated like the Google Maps application. You may search for countries of interest of regions of interest. In rare cases, you may search for the names of glaciers in the top search bar. Or the map can be navigated by clicking and dragging to a desired location. The zoom level will determine the viewability of the glacier polygons. 
 
 ## Functionality
+### Data Access 
+
+#### Image data
+Once you click within the polygon of a glacier the GLIMS ID and coordinates will appear above the map. Additionally, the side panel will display a button allowing a user to navigate to the google drive to download the image data for that glacier. You may clear the pins by clicking the clear points button on the map. This will allow you to click upon another desired glacier.
+
+#### Time Series data: Analysis Results
+Additionally, time series data corresponding to the data displayed on the side panel is also available through a time series data link. The data displayed on the side panel is smoothed used a 5 year moving average to display the signal of glacier retreat within the noise but the time series data available through a link is not smooth and thus one can apply whatever smoothing is most useful for any particular project.
 
 ### Seminal Examples 
 Our app contains three seminal examples of analysis results for glacier retreat over time. 
@@ -32,12 +39,15 @@ We include these examples of glaciers from different parts of the world for thos
 
 <img width="696" alt="Screen Shot 2021-06-08 at 2 20 02 PM" src="https://user-images.githubusercontent.com/13628543/121259245-b9894d00-c864-11eb-8612-f23ef9c46b50.png">
 
-These time series are smoothed using a five year moving average with a normal kernel. This will lead to a smoothed estimate of glacier retreat/shrinkage over time. 
+These time series are smoothed using a five year moving average with a normal kernel as mentioned above. This will lead to a smoothed estimate of glacier retreat/shrinkage over time. 
 
 One can navigate the time series and click on a particular date like seen in the above image to have the Landsat image RGB from that date displayed over the bounding box of the glacier. This allows us to see Landsat defects and image quality visually. Like the below Landsat image for Kahoto Glacier on April 23, 2015.
 
 <img width="716" alt="Screen Shot 2021-06-08 at 2 32 30 PM" src="https://user-images.githubusercontent.com/13628543/121260709-8942ae00-c866-11eb-9f93-440b28fdaa1b.png">
 
+### Other glaciers 
+
+In addition to the three main examples, one may navigate to any glacier of interest and click with the boundaries of said glacier to bring all information about the glacier into the side panel. Currently all of the glaciers in orange have time series data available and will display the smoothed time series in the side panel. All glaciers that are highlighted on the map have image data available for download.
 
 ### Map Layers and Navigation
 
@@ -54,13 +64,7 @@ Layer 3: Glacier flowlines estimated using gd-flow (Hansen et al 2021).
 Layer 4: Bounding Box around the glacier polygons.
 
 These layers are automatically loaded on the map within the application but each can be hidden for easier viewing. 
-### Data Access 
 
-#### Image data
-Once you click within the polygon of a glacier the GLIMS ID and coordinates will appear above the map. Additionally, the side panel will display a button allowing a user to navigate to the google drive to download the image data for that glacier. You may clear the pins by clicking the clear points button on the map. This will allow you to click upon another desired glacier.
-
-#### Time Series data: Analysis Results
-Additionally, time series data corresponding to the data displayed on the side panel is also available through a time series data link. The data displayed on the side panel is smoothed used a 5 year moving average to display the signal of glacier retreat within the noise but the time series data available through a link is not smooth and thus one can apply whatever smoothing is most useful for any particular project.
 
 
 ***
