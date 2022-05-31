@@ -8,8 +8,6 @@ header:
 
 ---
 
-
-
 Mountain glaciers are sensitive indicators of
 climate change and an important hydrological resource. Estimating the decline of mountain glaciers is important
 for better understanding spatio-temporal patterns of climate change and for better predicting future
@@ -37,3 +35,7 @@ changes in mountain valley glacier lengths as well as exploration of regional pa
 <img src="https://user-images.githubusercontent.com/13628543/119705957-3a305e00-be0e-11eb-9dea-53d81c12303a.png" alt="water supply" width="400"/>
 <em>One-sixth of the human population rely on glacier runoff for subsistence.</em>
 </p>
+
+To view the interactive map of the glaciers click the following link:
+<div class="embed-container"><small><a href="//ucsdonline.maps.arcgis.com/apps/Embed/index.html?webmap=482e61b3dddf4cc6a7d431e890f2c92c&extent=37.2885,7.0847,124.1245,50.335&zoom=true&scale=true&search=true&searchextent=true&disable_scroll=true&theme=light" style="color:#0000FF;text-align:left" target="_blank">View larger map</a></small><br>
+
