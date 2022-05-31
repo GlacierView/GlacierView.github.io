@@ -8,6 +8,7 @@ header:
 
 ---
 
+
 Mountain glaciers are sensitive indicators of
 climate change and an important hydrological resource. Estimating the decline of mountain glaciers is important
 for better understanding spatio-temporal patterns of climate change and for better predicting future
