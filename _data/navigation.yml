@@ -8,6 +8,8 @@ main:
     url: /publications/
   - title: "About"
     url: /about/
+  - title: "Animations"
+    url: /animations/
   
   # - title: "Sample Collections"
   #   url: /collection-archive/
